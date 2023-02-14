@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/BlockHouse_Live/static/css/main.87e919e6.css",
+    "main.css": "/BlockHouse_Live/static/css/main.e532cd85.css",
     "main.js": "/BlockHouse_Live/static/js/main.507f1602.js",
     "static/js/787.3a39cd02.chunk.js": "/BlockHouse_Live/static/js/787.3a39cd02.chunk.js",
     "static/media/aboutAssetsBackground.png": "/BlockHouse_Live/static/media/aboutAssetsBackground.e6309429a438d246d495.png",
@@ -20,12 +20,12 @@
     "static/media/thirdSecFirstRowTileSecImg.png": "/BlockHouse_Live/static/media/thirdSecFirstRowTileSecImg.a96044d914456f84340c.png",
     "static/media/thirdSecSxtTileImg.png": "/BlockHouse_Live/static/media/thirdSecSxtTileImg.828f13c01cdadc5b0272.png",
     "index.html": "/BlockHouse_Live/index.html",
-    "main.87e919e6.css.map": "/BlockHouse_Live/static/css/main.87e919e6.css.map",
+    "main.e532cd85.css.map": "/BlockHouse_Live/static/css/main.e532cd85.css.map",
     "main.507f1602.js.map": "/BlockHouse_Live/static/js/main.507f1602.js.map",
     "787.3a39cd02.chunk.js.map": "/BlockHouse_Live/static/js/787.3a39cd02.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.87e919e6.css",
+    "static/css/main.e532cd85.css",
     "static/js/main.507f1602.js"
   ]
 }
